@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github. Nothing Special, just feel free to come by. 👋
 
 <!--
 **pleaseCodemyname/pleaseCodemyname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
