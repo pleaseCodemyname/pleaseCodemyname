@@ -3,8 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C0A6AC&random=false&width=435&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%ED%9D%AC%EB%A7%9D%ED%95%98%EB%8A%94+%EC%9C%A4%EC%83%81%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4.;%EC%A4%91%EC%9A%94%ED%95%9C%EA%B1%B4+%EA%BA%BE%EC%9D%B4%EC%A7%80+%EC%95%8A%EB%8A%94+%EB%A7%88%EC%9D%8C...;%EC%9C%BC%EB%A1%9C+%EC%A3%BC%EC%96%B4%EC%A7%84+%EC%9D%BC%EC%97%90+%EC%B5%9C%EC%84%A0%EC%9D%84+%EB%8B%A4%ED%95%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
 # 🧑‍💻About Me...
-> - 🔭 I’m currently working on **나라장터**
-> - 🏀 I'm a huge fan of Jamal Murray
+> - 🔭 I’m currently working on **NestJS&TypeScript**
+> - 🏀 I'm a huge fan of Donovan Mitchell
 > - 🏃 I'm a marathon lover
 > - ⚡ Eager to be a Backend Developer
 
